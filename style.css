@@ -1,9 +1,8 @@
 body {
+    background:rgb(8, 3, 69);
     color: rgb(255, 255, 255);
     padding: 100px;
-    font-family: cursive;
-    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fgalaxy-background&psig=AOvVaw2ItqQuiA_rmFLQnnYe18JH&ust=1709830807092000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLiyyoeO4IQDFQAAAAAdAAAAABAE);
-    background-size: 100px 80px;    
+    font-family: cursive;   
 }
 
     
