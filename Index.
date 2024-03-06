@@ -1,0 +1,58 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+     <title> Jadie Bug's Web</title>
+     <link rel="stylesheet" href="style.css"
+    </head>
+
+      
+        <body>
+           <!-- All content goes here -->
+           <div> 
+            <div id = "all-contents"> 
+          
+                </div>
+
+                <div> 
+                  <nav>   
+          <h1> Jadie Bug's Web </h1>
+          <ul id= "nav-ul">
+                <li class="nav-li">  
+                <a href="index.html"> Home </a>
+                </li>
+                <li class="nav-li">
+                <a href="portfolio.html"> Portfolio </a>
+               </li>
+          </ul>
+        </nav>
+        
+
+        <main> 
+            <!--Sidebar Section-->
+            <div class = "sidebar"> 
+                <img src = "https://a-z-animals.com/media/2023/01/shutterstock_1145795051-1024x758.jpg" width = "300"
+              height = "200"/>                
+            </div> 
+                
+            <!--Content Section--> 
+            <div= "content">
+                <h2>
+                    Jade Boudreaux 
+                </h2>
+
+                     <p class = "content"> 
+                      Student of JVHS
+                     </p>
+           <!--Interest Section-->
+           <h3> Interests: </h3>
+               <ul>
+                    <li> Drawing </li>
+                    <li> Reading </li>
+                    <li> Astronomy & Astrology </li>
+                </ul>
+           </div> 
+              
+        </main>       
+    </div>
+</body>           
+</html>
